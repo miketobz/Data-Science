@@ -127,7 +127,7 @@ Install my-project with npm
   cd my-project
 ```
     
-![Logo](https://img.lovepik.com/element/45007/5094.png_860.png)
+![Logo](https://media.istockphoto.com/photos/3d-rendering-of-futuristic-blue-circuit-board-picture-id1129032734?k=20&m=1129032734&s=170667a&w=0&h=D71oHkqRE7NMM6igj6NxCJ39kbtnDaJfd9GmaXhbxNo=)
 
 
 ## Demo
