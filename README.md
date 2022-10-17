@@ -127,7 +127,7 @@ Install my-project with npm
   cd my-project
 ```
     
-![Logo](https://media.istockphoto.com/photos/3d-rendering-of-futuristic-blue-circuit-board-picture-id1129032734?k=20&m=1129032734&s=170667a&w=0&h=D71oHkqRE7NMM6igj6NxCJ39kbtnDaJfd9GmaXhbxNo=)
+![Logo](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)
 
 
 ## Demo
