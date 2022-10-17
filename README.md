@@ -147,7 +147,7 @@ To deploy this project run
 ```
 ## Screenshots
 
-![ML Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUAI8CYSFw1EAyc7Pfst8eOpgnxB-w3BFIxQ&usqp=CAU)
+![ML Screenshot](https://miro.medium.com/max/800/0*75AuV__Y-iJV67gC)
 
 ![ML Screenshot](https://serokell.io/files/cr/crlo72ua.22_(2)_(1).jpg)
 
