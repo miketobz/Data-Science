@@ -126,8 +126,6 @@ Install my-project with npm
   npm install my-project
   cd my-project
 ```
-    
-![Logo](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)
 
 
 ## Demo
@@ -145,7 +143,7 @@ To deploy this project run
 ```bash
   pip install -r requirements.txt
 ```
-## Screenshots
+## Process
 
 ![ML Screenshot](https://miro.medium.com/max/800/0*75AuV__Y-iJV67gC)
 
